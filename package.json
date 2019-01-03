@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "combiners docs",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/vuepress dev",
+    "build": "./node_modules/.bin/vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.dev.tencent.com:superCrack/docs.git"
+  },
+  "author": "crack <test@text.com> (http://yourblog.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
